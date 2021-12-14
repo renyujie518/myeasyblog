@@ -1,0 +1,13 @@
+/.idea/
+/.mvn/
+
+#idea
+.idea/
+target/
+*.iml
+*.ipr
+*.iws
+*.log
+#排除下写的学习笔记
+*.md
+/target/
