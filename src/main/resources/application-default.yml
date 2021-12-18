@@ -1,4 +1,5 @@
 # DataSource Config
+#代表本地环境所使用的的config
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
